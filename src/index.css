@@ -1,0 +1,9 @@
+.square {
+    display: inline;
+    border-color: rgb(0, 255, 221);
+    background-color: rgb(51, 51, 51);
+    width: 100px;
+    height: 100PX;
+    display: inline;
+    color: rgb(0, 255, 221);
+}
